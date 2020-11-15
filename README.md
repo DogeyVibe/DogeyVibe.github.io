@@ -1,4 +1,2 @@
-# Main Page
-
-## Other Links
-### [KrunkXD](https://dogeyvibe.github.io/KrunkXD)
+# Other Links
+- [KrunkXD](https://dogeyvibe.github.io/KrunkXD)
